@@ -1,0 +1,3 @@
+LIBRARY "guolvdll"
+EXPORTS
+WSPStartup      @2

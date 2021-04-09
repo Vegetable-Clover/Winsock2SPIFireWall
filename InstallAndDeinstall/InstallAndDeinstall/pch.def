@@ -1,0 +1,5 @@
+LIBRARY "InstallAndDeinstall"
+EXPORTS
+	Install @ 1
+	Uninstall @ 2
+
